@@ -1,0 +1,4 @@
+[TIME]="2021-12-26 14:26:35" [LEVEL]=info [MSG]="start to handle request: POST /v1/visit/user, body: {\"email\": \"asdf\"}" [FUNC]=main/middleware/logger.Tracing.func1 [FILE]="/mnt/c/Users/jeffrey/GolandProjects/gin_logger_middleware/middleware/logger/logger.go:30" X-Request-ID=456
+[TIME]="2021-12-26 14:27:20" [LEVEL]=info [MSG]="Shutting down server..." [FUNC]=main.main [FILE]="/mnt/c/Users/jeffrey/GolandProjects/gin_logger_middleware/cmd/main.go:43" X-Request-ID=456
+[TIME]="2021-12-26 14:27:20" [LEVEL]=info [MSG]="listen: http: Server closed\n" [FUNC]=main.main.func1 [FILE]="/mnt/c/Users/jeffrey/GolandProjects/gin_logger_middleware/cmd/main.go:31" X-Request-ID=456
+[TIME]="2021-12-26 14:27:20" [LEVEL]=info [MSG]="Server exiting" [FUNC]=main.main [FILE]="/mnt/c/Users/jeffrey/GolandProjects/gin_logger_middleware/cmd/main.go:54" X-Request-ID=456
