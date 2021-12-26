@@ -9,3 +9,5 @@
 
 ## 1.3 logrus
 - 初始化（打印格式、输出到文件）
+
+## 1.4 custom validation and struct-lvl-validation
